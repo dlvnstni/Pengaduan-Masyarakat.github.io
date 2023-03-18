@@ -2,6 +2,7 @@
 
 Aplikasi ini dikembangan dengan menggunakan PHP Versi 8.1.12 
 PHP Framework Codeigniter 4.3.2 MySQL 8.0.32. 
+
 Dikembangkan sebagai project Uji Kompetensi Program 
 Keahlian Rekayasa Perangkat Lunak SMK Negeri 2 Kuningan Tahun 2023.
 
@@ -29,5 +30,5 @@ Login Petugas admin & Non Admin : http://localhost:8080/
 
 User admin : admin password admin : 123
 
-#Jika ada pertanyaan tanyakan saja teman-teman~~
+##Jika ada pertanyaan tanyakan saja teman-teman~~
 instagram : dlvnstni_
