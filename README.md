@@ -1,4 +1,4 @@
-## AplikasiSPP-CI4
+## Aplikasi Pengaduan Masyarakat-CI4
 
 Aplikasi ini dikembangan dengan menggunakan PHP Versi 8.1.12 
 PHP Framework Codeigniter 4.3.2 MySQL 8.0.32. 
